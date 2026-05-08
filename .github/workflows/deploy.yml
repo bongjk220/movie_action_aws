@@ -1,4 +1,4 @@
-name: Deploy movie-flow to AWS EC2
+name: Deploy movie-acction to AWS EC2
 
 on:
   push:
